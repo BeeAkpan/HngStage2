@@ -1,0 +1,31 @@
+img{
+    width: 100%;
+}
+.inner{
+    position: absolute;
+    top: 520px;
+    left: 0;
+    right: 0;
+    text-align: center;
+    background: cyan;
+    width: 30%;
+    margin: 0 auto;
+    opacity: 0.4;
+    height: 200px;
+
+}
+.inner-h1{
+    position: absolute;
+    left: 0;
+    right: 0;
+    z-index: 100;
+}
+.time{
+    position: absolute;
+    top: 80px;
+    width: 80%;
+    margin: 10px auto;
+    left: 0;
+    right: 0;
+    background: rgb(156, 75, 113);
+}
